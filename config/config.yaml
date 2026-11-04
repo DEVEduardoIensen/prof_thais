@@ -1,0 +1,48 @@
+banco_dados:
+  variavel_host: BANCO_HOST
+  variavel_porta: BANCO_PORTA
+  variavel_nome: BANCO_NOME
+  variavel_usuario: BANCO_USUARIO
+  variavel_senha: BANCO_SENHA
+  host_padrao: localhost
+  porta_padrao: 5432
+  nome_padrao: postgres
+  usuario_padrao: postgres
+  senha_padrao: ""
+  schema_origem: campo_real_energia
+  schema_dw: dw_campo_real
+
+apis:
+  ccee_ckan:
+    url_base: "https://dadosabertos.ccee.org.br/api/3/action"
+    id_pacote: "pld_horario"
+    anos_alvo: [2025, 2026]
+    limite_pagina: 5000
+    tempo_limite_segundos: 30
+    max_tentativas: 4
+    espera_segundos: 2
+  open_meteo:
+    url_base: "https://archive-api.open-meteo.com/v1/archive"
+    data_inicio: "2025-01-01"
+    data_fim: "2025-12-31"
+    variaveis_horarias:
+      - "shortwave_radiation"
+      - "wind_speed_10m"
+      - "wind_speed_100m"
+      - "temperature_2m"
+      - "precipitation"
+    fuso_horario: "America/Sao_Paulo"
+    tempo_limite_segundos: 30
+    max_tentativas: 4
+    espera_segundos: 2
+
+caminhos:
+  pasta_cache_bruto: "dados/cache_bruto"
+  pasta_documentos: "docs"
+  pasta_painel: "painel"
+
+regras_negocio:
+  pld_min_regulatorio: 40.0
+  pld_max_regulatorio: 2000.0
+  atraso_maximo_horas_recebimento: 24.0
+  horas_ano_2025: 8760
