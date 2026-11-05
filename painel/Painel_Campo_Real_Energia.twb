@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<workbook original-version='18.1' source-build='2024.1.0' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <WorkbookOptimizerRuleConfig />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='DW Campo Real Energia (Resumo Usinas)' inline='true' name='federated.dw_campo_real' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='dw_campo_real_csv' name='textscan.dw'>
+            <connection class='textscan' directory='dados_dw' filename='resumo_usinas.csv' separator=',' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.dw' name='resumo_usinas.csv' table='[resumo_usinas#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='pt_BR' separator=','>
+            <column datatype='string' name='cod_usina' ordinal='0' />
+            <column datatype='string' name='nome_usina' ordinal='1' />
+            <column datatype='string' name='uf' ordinal='2' />
+            <column datatype='string' name='municipio' ordinal='3' />
+            <column datatype='string' name='cod_fonte' ordinal='4' />
+            <column datatype='string' name='descricao_fonte' ordinal='5' />
+            <column datatype='string' name='cod_submercado' ordinal='6' />
+            <column datatype='string' name='nome_submercado' ordinal='7' />
+            <column datatype='real' name='potencia_instalada_mw' ordinal='8' />
+            <column datatype='real' name='geracao_antes_mwh' ordinal='9' />
+            <column datatype='real' name='geracao_depois_mwh' ordinal='10' />
+            <column datatype='real' name='geracao_depois_gwh' ordinal='11' />
+            <column datatype='real' name='fator_capacidade_pct' ordinal='12' />
+            <column datatype='real' name='receita_antes_brl' ordinal='13' />
+            <column datatype='real' name='receita_depois_brl' ordinal='14' />
+            <column datatype='real' name='preco_capturado_r_mwh' ordinal='15' />
+            <column datatype='real' name='pld_medio_submercado_r_mwh' ordinal='16' />
+          </columns>
+        </relation>
+      </connection>
+      <column caption='Código da Usina' datatype='string' name='[cod_usina]' role='dimension' type='nominal' />
+      <column caption='Fonte de Energia' datatype='string' name='[descricao_fonte]' role='dimension' type='nominal' />
+      <column caption='Submercado' datatype='string' name='[cod_submercado]' role='dimension' type='nominal' />
+      <column caption='Geração Limpa (GWh)' datatype='real' name='[geracao_depois_gwh]' role='measure' type='quantitative' />
+      <column caption='Fator de Capacidade (%)' datatype='real' name='[fator_capacidade_pct]' role='measure' type='quantitative' />
+      <column caption='Receita Valorada ao PLD (R$)' datatype='real' name='[receita_depois_brl]' role='measure' type='quantitative' />
+      <column caption='Receita Bruta Antes da Limpeza (R$)' datatype='real' name='[receita_antes_brl]' role='measure' type='quantitative' />
+      <column caption='Preço Capturado (R$/MWh)' datatype='real' name='[preco_capturado_r_mwh]' role='measure' type='quantitative' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.5' measure-ordering='alphabetic' measure-percentage='0.5' show-structure='true' />
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='1. Geracao e Receita por Usina'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='DW Campo Real Energia (Resumo Usinas)' name='federated.dw_campo_real' />
+          </datasources>
+          <datasource-dependencies datasource='federated.dw_campo_real'>
+            <column datatype='string' name='[cod_usina]' role='dimension' type='nominal' />
+            <column datatype='real' name='[geracao_depois_gwh]' role='measure' type='quantitative' />
+            <column datatype='real' name='[receita_depois_brl]' role='measure' type='quantitative' />
+            <column-instance column='[cod_usina]' derivation='None' name='[none:cod_usina:nk]' pivot='key' type='nominal' />
+            <column-instance column='[geracao_depois_gwh]' derivation='Sum' name='[sum:geracao_depois_gwh:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[receita_depois_brl]' derivation='Sum' name='[sum:receita_depois_brl:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows>[federated.dw_campo_real].[none:cod_usina:nk]</rows>
+        <cols>([federated.dw_campo_real].[sum:geracao_depois_gwh:qk] + [federated.dw_campo_real].[sum:receita_depois_brl:qk])</cols>
+      </table>
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='1. Geracao e Receita por Usina'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+        </edge>
+      </cards>
+    </window>
+  </windows>
+</workbook>
