@@ -1,0 +1,145 @@
+﻿hora,cod_fonte,descricao_fonte,fc_medio_pct,pld_medio_hora
+0,BIO,Biomassa (bagaço de cana),53.39,253.27
+0,EOL,Eólica,48.95,229.26
+0,PCH,Pequena Central Hidrelétrica,60.14,253.25
+0,UFV,Solar fotovoltaica,0.0,229.27
+0,UHE,Hidrelétrica,54.37,231.03
+0,UTE,Térmica a gás natural,17.24,208.8
+1,BIO,Biomassa (bagaço de cana),52.93,242.3
+1,EOL,Eólica,50.56,219.87
+1,PCH,Pequena Central Hidrelétrica,59.82,242.27
+1,UFV,Solar fotovoltaica,0.0,219.89
+1,UHE,Hidrelétrica,54.37,221.35
+1,UTE,Térmica a gás natural,19.42,200.43
+2,BIO,Biomassa (bagaço de cana),52.91,234.88
+2,EOL,Eólica,51.01,214.49
+2,PCH,Pequena Central Hidrelétrica,60.07,234.85
+2,UFV,Solar fotovoltaica,0.0,214.5
+2,UHE,Hidrelétrica,54.18,215.69
+2,UTE,Térmica a gás natural,21.97,196.54
+3,BIO,Biomassa (bagaço de cana),53.19,228.92
+3,EOL,Eólica,50.72,209.45
+3,PCH,Pequena Central Hidrelétrica,59.71,228.89
+3,UFV,Solar fotovoltaica,0.0,209.47
+3,UHE,Hidrelétrica,54.32,210.39
+3,UTE,Térmica a gás natural,20.18,191.89
+4,BIO,Biomassa (bagaço de cana),52.85,230.33
+4,EOL,Eólica,48.98,211.03
+4,PCH,Pequena Central Hidrelétrica,59.93,230.3
+4,UFV,Solar fotovoltaica,0.0,211.04
+4,UHE,Hidrelétrica,54.16,212.05
+4,UTE,Térmica a gás natural,21.1,193.79
+5,BIO,Biomassa (bagaço de cana),53.15,237.44
+5,EOL,Eólica,47.21,215.52
+5,PCH,Pequena Central Hidrelétrica,59.75,237.43
+5,UFV,Solar fotovoltaica,0.0,215.53
+5,UHE,Hidrelétrica,54.25,216.91
+5,UTE,Térmica a gás natural,19.31,196.4
+6,BIO,Biomassa (bagaço de cana),53.2,228.95
+6,EOL,Eólica,44.79,198.62
+6,PCH,Pequena Central Hidrelétrica,59.54,229.15
+6,UFV,Solar fotovoltaica,0.0,198.52
+6,UHE,Hidrelétrica,54.3,206.93
+6,UTE,Térmica a gás natural,21.88,184.72
+7,BIO,Biomassa (bagaço de cana),53.15,201.96
+7,EOL,Eólica,42.39,164.26
+7,PCH,Pequena Central Hidrelétrica,59.78,202.59
+7,UFV,Solar fotovoltaica,17.46,163.95
+7,UHE,Hidrelétrica,55.91,180.77
+7,UTE,Térmica a gás natural,18.6,158.94
+8,BIO,Biomassa (bagaço de cana),53.11,183.0
+8,EOL,Eólica,39.12,145.74
+8,PCH,Pequena Central Hidrelétrica,59.43,184.47
+8,UFV,Solar fotovoltaica,33.91,145.01
+8,UHE,Hidrelétrica,57.66,160.71
+8,UTE,Térmica a gás natural,18.83,136.96
+9,BIO,Biomassa (bagaço de cana),53.03,153.05
+9,EOL,Eólica,35.25,134.56
+9,PCH,Pequena Central Hidrelétrica,59.49,162.63
+9,UFV,Solar fotovoltaica,48.11,129.77
+9,UHE,Hidrelétrica,59.27,141.27
+9,UTE,Térmica a gás natural,18.74,119.91
+10,BIO,Biomassa (bagaço de cana),52.95,143.25
+10,EOL,Eólica,33.23,134.33
+10,PCH,Pequena Central Hidrelétrica,59.64,156.5
+10,UFV,Solar fotovoltaica,58.91,127.71
+10,UHE,Hidrelétrica,60.57,137.63
+10,UTE,Térmica a gás natural,20.87,118.75
+11,BIO,Biomassa (bagaço de cana),53.07,143.82
+11,EOL,Eólica,29.97,139.29
+11,PCH,Pequena Central Hidrelétrica,59.71,158.18
+11,UFV,Solar fotovoltaica,64.9,132.11
+11,UHE,Hidrelétrica,61.62,139.66
+11,UTE,Térmica a gás natural,17.58,121.13
+12,BIO,Biomassa (bagaço de cana),53.05,135.67
+12,EOL,Eólica,29.0,127.01
+12,PCH,Pequena Central Hidrelétrica,59.61,139.97
+12,UFV,Solar fotovoltaica,67.65,124.86
+12,UHE,Hidrelétrica,62.7,127.01
+12,UTE,Térmica a gás natural,17.18,114.05
+13,BIO,Biomassa (bagaço de cana),52.85,165.31
+13,EOL,Eólica,26.9,156.57
+13,PCH,Pequena Central Hidrelétrica,59.53,173.34
+13,UFV,Solar fotovoltaica,64.85,152.56
+13,UHE,Hidrelétrica,63.47,156.58
+13,UTE,Térmica a gás natural,19.26,139.81
+14,BIO,Biomassa (bagaço de cana),53.19,192.29
+14,EOL,Eólica,27.26,177.57
+14,PCH,Pequena Central Hidrelétrica,59.47,196.8
+14,UFV,Solar fotovoltaica,58.79,175.32
+14,UHE,Hidrelétrica,63.79,177.61
+14,UTE,Térmica a gás natural,21.58,158.42
+15,BIO,Biomassa (bagaço de cana),53.08,220.13
+15,EOL,Eólica,27.36,201.4
+15,PCH,Pequena Central Hidrelétrica,59.67,221.28
+15,UFV,Solar fotovoltaica,47.52,200.82
+15,UHE,Hidrelétrica,64.02,201.48
+15,UTE,Térmica a gás natural,19.41,181.68
+16,BIO,Biomassa (bagaço de cana),53.07,254.34
+16,EOL,Eólica,29.23,231.17
+16,PCH,Pequena Central Hidrelétrica,59.61,255.09
+16,UFV,Solar fotovoltaica,33.7,230.79
+16,UHE,Hidrelétrica,63.86,231.51
+16,UTE,Térmica a gás natural,19.52,207.93
+17,BIO,Biomassa (bagaço de cana),53.21,272.24
+17,EOL,Eólica,30.84,247.63
+17,PCH,Pequena Central Hidrelétrica,59.63,272.63
+17,UFV,Solar fotovoltaica,17.46,247.44
+17,UHE,Hidrelétrica,63.43,248.02
+17,UTE,Térmica a gás natural,66.28,223.42
+18,BIO,Biomassa (bagaço de cana),52.87,284.35
+18,EOL,Eólica,32.52,257.85
+18,PCH,Pequena Central Hidrelétrica,59.82,284.61
+18,UFV,Solar fotovoltaica,0.0,257.72
+18,UHE,Hidrelétrica,62.81,258.41
+18,UTE,Térmica a gás natural,62.13,232.22
+19,BIO,Biomassa (bagaço de cana),53.46,286.94
+19,EOL,Eólica,35.96,257.51
+19,PCH,Pequena Central Hidrelétrica,59.61,287.35
+19,UFV,Solar fotovoltaica,0.0,257.31
+19,UHE,Hidrelétrica,61.79,259.2
+19,UTE,Térmica a gás natural,62.84,231.05
+20,BIO,Biomassa (bagaço de cana),53.14,280.34
+20,EOL,Eólica,39.16,249.71
+20,PCH,Pequena Central Hidrelétrica,60.02,280.78
+20,UFV,Solar fotovoltaica,0.0,249.49
+20,UHE,Hidrelétrica,60.63,252.1
+20,UTE,Térmica a gás natural,65.31,223.43
+21,BIO,Biomassa (bagaço de cana),52.83,278.42
+21,EOL,Eólica,41.51,248.79
+21,PCH,Pequena Central Hidrelétrica,59.87,278.94
+21,UFV,Solar fotovoltaica,0.0,248.53
+21,UHE,Hidrelétrica,58.99,250.8
+21,UTE,Térmica a gás natural,67.36,222.66
+22,BIO,Biomassa (bagaço de cana),53.17,270.71
+22,EOL,Eólica,44.93,242.18
+22,PCH,Pequena Central Hidrelétrica,59.79,271.21
+22,UFV,Solar fotovoltaica,0.0,241.93
+22,UHE,Hidrelétrica,57.58,243.72
+22,UTE,Térmica a gás natural,20.79,216.24
+23,BIO,Biomassa (bagaço de cana),53.07,261.43
+23,EOL,Eólica,47.8,234.02
+23,PCH,Pequena Central Hidrelétrica,59.68,261.39
+23,UFV,Solar fotovoltaica,0.0,234.04
+23,UHE,Hidrelétrica,56.03,235.09
+23,UTE,Térmica a gás natural,18.28,208.78

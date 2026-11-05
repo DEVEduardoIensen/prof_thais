@@ -1,0 +1,10 @@
+﻿cod_fonte,descricao_fonte,flag_renovavel,flag_intermitente,cod_submercado,nome_submercado,geracao_total_mwh,receita_total_brl,preco_capturado_r_mwh,pld_medio_submercado_r_mwh,razao_captura,premio_desconto_captura_pct
+UTE,Térmica a gás natural,False,False,N,Norte,380879.9,87280563.83,229.16,182.83,1.2534,25.34
+EOL,Eólica,True,True,NE,Nordeste,493796.46,97971938.45,198.41,177.16,1.1199,11.99
+BIO,Biomassa (bagaço de cana),True,False,SE,Sudeste/Centro-Oeste,185989.74,44738199.48,240.54,224.31,1.0724,7.24
+EOL,Eólica,True,True,S,Sul,135405.87,31932835.55,235.83,226.83,1.0397,3.97
+UHE,Hidrelétrica,True,False,S,Sul,972675.07,218549847.68,224.69,226.83,0.9906,-0.94
+PCH,Pequena Central Hidrelétrica,True,False,S,Sul,130789.9,28878304.84,220.8,226.83,0.9734,-2.66
+UHE,Hidrelétrica,True,False,N,Norte,541092.62,86202094.46,159.31,182.83,0.8714,-12.86
+UFV,Solar fotovoltaica,True,True,SE,Sudeste/Centro-Oeste,112304.77,19625918.41,174.76,224.31,0.7791,-22.09
+UFV,Solar fotovoltaica,True,True,NE,Nordeste,168751.2,23063621.42,136.67,177.16,0.7715,-22.85

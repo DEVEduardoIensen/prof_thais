@@ -1,0 +1,11 @@
+﻿cod_usina,nome_usina,cod_fonte,descricao_fonte,cod_submercado,tipo_parada,motivo_parada,id_parada_natural,inicio_parada,fim_parada,horas_indisponiveis,energia_nao_gerada_mwh,pld_medio_durante_parada_r_mwh,perda_receita_estimada_brl
+CRE-UHE-001,UHE Campo Real Iguaçu,UHE,Hidrelétrica,S,Programada,Revisão geral da unidade geradora 1,1,2025-07-07 00:00:00,2025-07-13 23:00:00,168,16887.91,153.36,2604399.84
+CRE-UTE-009,UTE Gás Norte,UTE,Térmica a gás natural,N,Programada,Overhaul da turbina a gás,10,2025-06-02 00:00:00,2025-06-15 23:00:00,336,8465.79,257.06,2482576.74
+CRE-UHE-008,UHE Tocantins Real,UHE,Hidrelétrica,N,Programada,Manutenção da comporta do vertedouro,9,2025-08-18 00:00:00,2025-08-24 23:00:00,168,5938.26,284.2,1671179.76
+CRE-EOL-007,EOL Ventos do Potiguar,EOL,Eólica,NE,Programada,Inspeção de pás,8,2025-04-14 00:00:00,2025-04-17 23:00:00,96,4081.17,116.11,482908.18
+CRE-EOL-003,EOL Coxilha Real,EOL,Eólica,S,Programada,Troca de caixa multiplicadora,3,2025-05-20 00:00:00,2025-05-22 23:00:00,72,1033.17,313.08,318898.15
+CRE-EOL-007,EOL Ventos do Potiguar,EOL,Eólica,NE,Forçada,Restrição de transmissão (constrained-off),7,2025-09-08 05:00:00,2025-09-08 20:00:00,16,1140.02,245.13,277079.0
+CRE-BIO-005,UTE Bagaço Campo Real,BIO,Biomassa (bagaço de cana),SE,Programada,Entressafra: manutenção da caldeira,5,2025-12-01 00:00:00,2025-12-31 23:00:00,744,1039.86,265.89,276325.98
+CRE-PCH-002,PCH Rio das Araucárias,PCH,Pequena Central Hidrelétrica,S,Forçada,Falha no regulador de velocidade,2,2025-03-10 08:00:00,2025-03-11 17:00:00,34,598.62,362.7,217128.35
+CRE-UFV-006,UFV Sertão do Sol,UFV,Solar fotovoltaica,NE,Forçada,Falha no transformador elevador,6,2025-10-02 09:00:00,2025-10-03 16:00:00,32,872.85,228.86,178018.62
+CRE-UFV-004,UFV Campo Real Minas,UFV,Solar fotovoltaica,SE,Forçada,Desarme do inversor central após descarga atmosférica,4,2025-02-14 13:00:00,2025-02-14 18:00:00,6,144.3,98.96,14166.76

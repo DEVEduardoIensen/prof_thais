@@ -1,0 +1,10 @@
+﻿cod_usina,nome_usina,uf,municipio,cod_fonte,descricao_fonte,cod_submercado,nome_submercado,potencia_instalada_mw,geracao_antes_mwh,geracao_depois_mwh,geracao_depois_gwh,fator_capacidade_pct,receita_antes_brl,receita_depois_brl,preco_capturado_r_mwh,pld_medio_submercado_r_mwh
+CRE-BIO-005,UTE Bagaço Campo Real,SP,Sertãozinho,BIO,Biomassa (bagaço de cana),SE,Sudeste/Centro-Oeste,40.0,927792.19,185989.74,185.99,53.08,210063260.35,44738199.48,240.54,224.31
+CRE-EOL-003,EOL Coxilha Real,RS,Santana do Livramento,EOL,Eólica,S,Sul,50.0,135880.6,135405.87,135.41,30.91,31992576.08,31932835.55,235.83,226.83
+CRE-EOL-007,EOL Ventos do Potiguar,RN,João Câmara,EOL,Eólica,NE,Nordeste,120.0,493793.06,493796.46,493.8,46.97,97971739.21,97971938.45,198.41,177.16
+CRE-PCH-002,PCH Rio das Araucárias,SC,Caçador,PCH,Pequena Central Hidrelétrica,S,Sul,25.0,130846.39,130789.9,130.79,59.72,28881614.81,28878304.84,220.8,226.83
+CRE-UFV-004,UFV Campo Real Minas,MG,Janaúba,UFV,Solar fotovoltaica,SE,Sudeste/Centro-Oeste,60.0,112655.13,112304.77,112.3,21.37,19646449.44,19625918.41,174.76,224.31
+CRE-UFV-006,UFV Sertão do Sol,BA,Bom Jesus da Lapa,UFV,Solar fotovoltaica,NE,Nordeste,90.0,168812.8,168751.2,168.75,21.4,23084089.56,23063621.42,136.67,177.16
+CRE-UHE-001,UHE Campo Real Iguaçu,PR,Capitão Leônidas Marques,UHE,Hidrelétrica,S,Sul,180.0,973833.15,972675.07,972.68,61.69,218649557.94,218549847.68,224.69,226.83
+CRE-UHE-008,UHE Tocantins Real,TO,Peixe,UHE,Hidrelétrica,N,Norte,110.0,540550.02,541092.62,541.09,56.15,86170297.58,86202094.46,159.31,182.83
+CRE-UTE-009,UTE Gás Norte,MA,Santo Antônio dos Lopes,UTE,Térmica a gás natural,N,Norte,150.0,381407.9,380879.9,380.88,28.99,87452290.55,87280563.83,229.16,182.83

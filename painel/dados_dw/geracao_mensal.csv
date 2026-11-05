@@ -1,0 +1,109 @@
+﻿ano,mes,nome_mes,ano_mes,cod_usina,nome_usina,uf,municipio,cod_fonte,descricao_fonte,flag_renovavel,flag_intermitente,cod_submercado,nome_submercado,potencia_instalada_mw,horas_periodo,geracao_mwh,geracao_gwh,fator_capacidade_pct,disponibilidade_media_mw
+2025,1,Janeiro,2025-01,CRE-BIO-005,UTE Bagaço Campo Real,SP,Sertãozinho,BIO,Biomassa (bagaço de cana),True,False,SE,Sudeste/Centro-Oeste,40.0,744,1029.49,1.029,3.46,40.0
+2025,1,Janeiro,2025-01,CRE-EOL-003,EOL Coxilha Real,RS,Santana do Livramento,EOL,Eólica,True,True,S,Sul,50.0,744,9277.64,9.278,24.94,50.0
+2025,1,Janeiro,2025-01,CRE-EOL-007,EOL Ventos do Potiguar,RN,João Câmara,EOL,Eólica,True,True,NE,Nordeste,120.0,744,31266.69,31.267,35.02,120.0
+2025,1,Janeiro,2025-01,CRE-PCH-002,PCH Rio das Araucárias,SC,Caçador,PCH,Pequena Central Hidrelétrica,True,False,S,Sul,25.0,744,13828.39,13.828,74.35,25.0
+2025,1,Janeiro,2025-01,CRE-UFV-004,UFV Campo Real Minas,MG,Janaúba,UFV,Solar fotovoltaica,True,True,SE,Sudeste/Centro-Oeste,60.0,744,10281.7,10.282,23.03,60.0
+2025,1,Janeiro,2025-01,CRE-UFV-006,UFV Sertão do Sol,BA,Bom Jesus da Lapa,UFV,Solar fotovoltaica,True,True,NE,Nordeste,90.0,744,15547.47,15.547,23.22,90.0
+2025,1,Janeiro,2025-01,CRE-UHE-001,UHE Campo Real Iguaçu,PR,Capitão Leônidas Marques,UHE,Hidrelétrica,True,False,S,Sul,180.0,744,93351.7,93.352,69.71,180.0
+2025,1,Janeiro,2025-01,CRE-UHE-008,UHE Tocantins Real,TO,Peixe,UHE,Hidrelétrica,True,False,N,Norte,110.0,744,64110.07,64.11,78.34,110.0
+2025,1,Janeiro,2025-01,CRE-UTE-009,UTE Gás Norte,MA,Santo Antônio dos Lopes,UTE,Térmica a gás natural,False,False,N,Norte,150.0,744,17444.37,17.444,15.63,150.0
+2025,2,Fevereiro,2025-02,CRE-BIO-005,UTE Bagaço Campo Real,SP,Sertãozinho,BIO,Biomassa (bagaço de cana),True,False,SE,Sudeste/Centro-Oeste,40.0,672,935.31,0.935,3.48,40.0
+2025,2,Fevereiro,2025-02,CRE-EOL-003,EOL Coxilha Real,RS,Santana do Livramento,EOL,Eólica,True,True,S,Sul,50.0,672,7890.74,7.891,23.48,50.0
+2025,2,Fevereiro,2025-02,CRE-EOL-007,EOL Ventos do Potiguar,RN,João Câmara,EOL,Eólica,True,True,NE,Nordeste,120.0,672,24490.28,24.49,30.37,120.0
+2025,2,Fevereiro,2025-02,CRE-PCH-002,PCH Rio das Araucárias,SC,Caçador,PCH,Pequena Central Hidrelétrica,True,False,S,Sul,25.0,672,12493.28,12.493,74.36,25.0
+2025,2,Fevereiro,2025-02,CRE-UFV-004,UFV Campo Real Minas,MG,Janaúba,UFV,Solar fotovoltaica,True,True,SE,Sudeste/Centro-Oeste,60.0,672,9018.96,9.019,22.37,59.46
+2025,2,Fevereiro,2025-02,CRE-UFV-006,UFV Sertão do Sol,BA,Bom Jesus da Lapa,UFV,Solar fotovoltaica,True,True,NE,Nordeste,90.0,672,13853.06,13.853,22.91,90.0
+2025,2,Fevereiro,2025-02,CRE-UHE-001,UHE Campo Real Iguaçu,PR,Capitão Leônidas Marques,UHE,Hidrelétrica,True,False,S,Sul,180.0,672,85566.54,85.567,70.74,180.0
+2025,2,Fevereiro,2025-02,CRE-UHE-008,UHE Tocantins Real,TO,Peixe,UHE,Hidrelétrica,True,False,N,Norte,110.0,672,60346.78,60.347,81.64,110.0
+2025,2,Fevereiro,2025-02,CRE-UTE-009,UTE Gás Norte,MA,Santo Antônio dos Lopes,UTE,Térmica a gás natural,False,False,N,Norte,150.0,672,17681.7,17.682,17.54,150.0
+2025,3,Março,2025-03,CRE-BIO-005,UTE Bagaço Campo Real,SP,Sertãozinho,BIO,Biomassa (bagaço de cana),True,False,SE,Sudeste/Centro-Oeste,40.0,744,1054.24,1.054,3.54,40.0
+2025,3,Março,2025-03,CRE-EOL-003,EOL Coxilha Real,RS,Santana do Livramento,EOL,Eólica,True,True,S,Sul,50.0,744,8367.47,8.367,22.49,50.0
+2025,3,Março,2025-03,CRE-EOL-007,EOL Ventos do Potiguar,RN,João Câmara,EOL,Eólica,True,True,NE,Nordeste,120.0,744,27587.98,27.588,30.9,120.0
+2025,3,Março,2025-03,CRE-PCH-002,PCH Rio das Araucárias,SC,Caçador,PCH,Pequena Central Hidrelétrica,True,False,S,Sul,25.0,744,12510.67,12.511,67.26,23.86
+2025,3,Março,2025-03,CRE-UFV-004,UFV Campo Real Minas,MG,Janaúba,UFV,Solar fotovoltaica,True,True,SE,Sudeste/Centro-Oeste,60.0,744,10092.35,10.092,22.61,60.0
+2025,3,Março,2025-03,CRE-UFV-006,UFV Sertão do Sol,BA,Bom Jesus da Lapa,UFV,Solar fotovoltaica,True,True,NE,Nordeste,90.0,744,15406.83,15.407,23.01,90.0
+2025,3,Março,2025-03,CRE-UHE-001,UHE Campo Real Iguaçu,PR,Capitão Leônidas Marques,UHE,Hidrelétrica,True,False,S,Sul,180.0,744,93128.43,93.128,69.54,180.0
+2025,3,Março,2025-03,CRE-UHE-008,UHE Tocantins Real,TO,Peixe,UHE,Hidrelétrica,True,False,N,Norte,110.0,744,63996.27,63.996,78.2,110.0
+2025,3,Março,2025-03,CRE-UTE-009,UTE Gás Norte,MA,Santo Antônio dos Lopes,UTE,Térmica a gás natural,False,False,N,Norte,150.0,744,19386.34,19.386,17.37,150.0
+2025,4,Abril,2025-04,CRE-BIO-005,UTE Bagaço Campo Real,SP,Sertãozinho,BIO,Biomassa (bagaço de cana),True,False,SE,Sudeste/Centro-Oeste,40.0,720,22578.88,22.579,78.4,40.0
+2025,4,Abril,2025-04,CRE-EOL-003,EOL Coxilha Real,RS,Santana do Livramento,EOL,Eólica,True,True,S,Sul,50.0,720,8981.37,8.981,24.95,50.0
+2025,4,Abril,2025-04,CRE-EOL-007,EOL Ventos do Potiguar,RN,João Câmara,EOL,Eólica,True,True,NE,Nordeste,120.0,720,26527.58,26.528,30.7,104.0
+2025,4,Abril,2025-04,CRE-PCH-002,PCH Rio das Araucárias,SC,Caçador,PCH,Pequena Central Hidrelétrica,True,False,S,Sul,25.0,720,11505.15,11.505,63.92,25.0
+2025,4,Abril,2025-04,CRE-UFV-004,UFV Campo Real Minas,MG,Janaúba,UFV,Solar fotovoltaica,True,True,SE,Sudeste/Centro-Oeste,60.0,720,9420.6,9.421,21.81,60.0
+2025,4,Abril,2025-04,CRE-UFV-006,UFV Sertão do Sol,BA,Bom Jesus da Lapa,UFV,Solar fotovoltaica,True,True,NE,Nordeste,90.0,720,13816.91,13.817,21.32,90.0
+2025,4,Abril,2025-04,CRE-UHE-001,UHE Campo Real Iguaçu,PR,Capitão Leônidas Marques,UHE,Hidrelétrica,True,False,S,Sul,180.0,720,86502.18,86.502,66.75,180.0
+2025,4,Abril,2025-04,CRE-UHE-008,UHE Tocantins Real,TO,Peixe,UHE,Hidrelétrica,True,False,N,Norte,110.0,720,54789.26,54.789,69.18,110.0
+2025,4,Abril,2025-04,CRE-UTE-009,UTE Gás Norte,MA,Santo Antônio dos Lopes,UTE,Térmica a gás natural,False,False,N,Norte,150.0,720,19511.25,19.511,18.07,150.0
+2025,5,Maio,2025-05,CRE-BIO-005,UTE Bagaço Campo Real,SP,Sertãozinho,BIO,Biomassa (bagaço de cana),True,False,SE,Sudeste/Centro-Oeste,40.0,744,23254.73,23.255,78.14,40.0
+2025,5,Maio,2025-05,CRE-EOL-003,EOL Coxilha Real,RS,Santana do Livramento,EOL,Eólica,True,True,S,Sul,50.0,744,9642.91,9.643,25.92,45.16
+2025,5,Maio,2025-05,CRE-EOL-007,EOL Ventos do Potiguar,RN,João Câmara,EOL,Eólica,True,True,NE,Nordeste,120.0,744,38703.83,38.704,43.35,120.0
+2025,5,Maio,2025-05,CRE-PCH-002,PCH Rio das Araucárias,SC,Caçador,PCH,Pequena Central Hidrelétrica,True,False,S,Sul,25.0,744,10475.12,10.475,56.32,25.0
+2025,5,Maio,2025-05,CRE-UFV-004,UFV Campo Real Minas,MG,Janaúba,UFV,Solar fotovoltaica,True,True,SE,Sudeste/Centro-Oeste,60.0,744,9277.52,9.278,20.78,60.0
+2025,5,Maio,2025-05,CRE-UFV-006,UFV Sertão do Sol,BA,Bom Jesus da Lapa,UFV,Solar fotovoltaica,True,True,NE,Nordeste,90.0,744,13812.58,13.813,20.63,90.0
+2025,5,Maio,2025-05,CRE-UHE-001,UHE Campo Real Iguaçu,PR,Capitão Leônidas Marques,UHE,Hidrelétrica,True,False,S,Sul,180.0,744,84012.09,84.012,62.73,180.0
+2025,5,Maio,2025-05,CRE-UHE-008,UHE Tocantins Real,TO,Peixe,UHE,Hidrelétrica,True,False,N,Norte,110.0,744,46657.31,46.657,57.01,110.0
+2025,5,Maio,2025-05,CRE-UTE-009,UTE Gás Norte,MA,Santo Antônio dos Lopes,UTE,Térmica a gás natural,False,False,N,Norte,150.0,744,20651.0,20.651,18.5,150.0
+2025,6,Junho,2025-06,CRE-BIO-005,UTE Bagaço Campo Real,SP,Sertãozinho,BIO,Biomassa (bagaço de cana),True,False,SE,Sudeste/Centro-Oeste,40.0,720,22510.97,22.511,78.16,40.0
+2025,6,Junho,2025-06,CRE-EOL-003,EOL Coxilha Real,RS,Santana do Livramento,EOL,Eólica,True,True,S,Sul,50.0,720,11943.96,11.944,33.18,50.0
+2025,6,Junho,2025-06,CRE-EOL-007,EOL Ventos do Potiguar,RN,João Câmara,EOL,Eólica,True,True,NE,Nordeste,120.0,720,45226.01,45.226,52.34,120.0
+2025,6,Junho,2025-06,CRE-PCH-002,PCH Rio das Araucárias,SC,Caçador,PCH,Pequena Central Hidrelétrica,True,False,S,Sul,25.0,720,8914.38,8.914,49.52,25.0
+2025,6,Junho,2025-06,CRE-UFV-004,UFV Campo Real Minas,MG,Janaúba,UFV,Solar fotovoltaica,True,True,SE,Sudeste/Centro-Oeste,60.0,720,8727.73,8.728,20.2,60.0
+2025,6,Junho,2025-06,CRE-UFV-006,UFV Sertão do Sol,BA,Bom Jesus da Lapa,UFV,Solar fotovoltaica,True,True,NE,Nordeste,90.0,720,12818.0,12.818,19.78,90.0
+2025,6,Junho,2025-06,CRE-UHE-001,UHE Campo Real Iguaçu,PR,Capitão Leônidas Marques,UHE,Hidrelétrica,True,False,S,Sul,180.0,720,76308.78,76.309,58.88,180.0
+2025,6,Junho,2025-06,CRE-UHE-008,UHE Tocantins Real,TO,Peixe,UHE,Hidrelétrica,True,False,N,Norte,110.0,720,35294.05,35.294,44.56,110.0
+2025,6,Junho,2025-06,CRE-UTE-009,UTE Gás Norte,MA,Santo Antônio dos Lopes,UTE,Térmica a gás natural,False,False,N,Norte,150.0,720,9675.19,9.675,8.96,80.0
+2025,7,Julho,2025-07,CRE-BIO-005,UTE Bagaço Campo Real,SP,Sertãozinho,BIO,Biomassa (bagaço de cana),True,False,SE,Sudeste/Centro-Oeste,40.0,744,23254.69,23.255,78.14,40.0
+2025,7,Julho,2025-07,CRE-EOL-003,EOL Coxilha Real,RS,Santana do Livramento,EOL,Eólica,True,True,S,Sul,50.0,744,13780.25,13.78,37.04,50.0
+2025,7,Julho,2025-07,CRE-EOL-007,EOL Ventos do Potiguar,RN,João Câmara,EOL,Eólica,True,True,NE,Nordeste,120.0,744,53251.53,53.252,59.65,120.0
+2025,7,Julho,2025-07,CRE-PCH-002,PCH Rio das Araucárias,SC,Caçador,PCH,Pequena Central Hidrelétrica,True,False,S,Sul,25.0,744,8489.62,8.49,45.64,25.0
+2025,7,Julho,2025-07,CRE-UFV-004,UFV Campo Real Minas,MG,Janaúba,UFV,Solar fotovoltaica,True,True,SE,Sudeste/Centro-Oeste,60.0,744,8936.43,8.936,20.02,60.0
+2025,7,Julho,2025-07,CRE-UFV-006,UFV Sertão do Sol,BA,Bom Jesus da Lapa,UFV,Solar fotovoltaica,True,True,NE,Nordeste,90.0,744,13257.75,13.258,19.8,90.0
+2025,7,Julho,2025-07,CRE-UHE-001,UHE Campo Real Iguaçu,PR,Capitão Leônidas Marques,UHE,Hidrelétrica,True,False,S,Sul,180.0,744,57901.35,57.901,43.24,139.35
+2025,7,Julho,2025-07,CRE-UHE-008,UHE Tocantins Real,TO,Peixe,UHE,Hidrelétrica,True,False,N,Norte,110.0,744,28898.03,28.898,35.31,110.0
+2025,7,Julho,2025-07,CRE-UTE-009,UTE Gás Norte,MA,Santo Antônio dos Lopes,UTE,Térmica a gás natural,False,False,N,Norte,150.0,744,18283.35,18.283,16.38,150.0
+2025,8,Agosto,2025-08,CRE-BIO-005,UTE Bagaço Campo Real,SP,Sertãozinho,BIO,Biomassa (bagaço de cana),True,False,SE,Sudeste/Centro-Oeste,40.0,744,23179.33,23.179,77.89,40.0
+2025,8,Agosto,2025-08,CRE-EOL-003,EOL Coxilha Real,RS,Santana do Livramento,EOL,Eólica,True,True,S,Sul,50.0,744,14670.48,14.67,39.44,50.0
+2025,8,Agosto,2025-08,CRE-EOL-007,EOL Ventos do Potiguar,RN,João Câmara,EOL,Eólica,True,True,NE,Nordeste,120.0,744,57084.01,57.084,63.94,120.0
+2025,8,Agosto,2025-08,CRE-PCH-002,PCH Rio das Araucárias,SC,Caçador,PCH,Pequena Central Hidrelétrica,True,False,S,Sul,25.0,744,8492.77,8.493,45.66,25.0
+2025,8,Agosto,2025-08,CRE-UFV-004,UFV Campo Real Minas,MG,Janaúba,UFV,Solar fotovoltaica,True,True,SE,Sudeste/Centro-Oeste,60.0,744,8887.57,8.888,19.91,60.0
+2025,8,Agosto,2025-08,CRE-UFV-006,UFV Sertão do Sol,BA,Bom Jesus da Lapa,UFV,Solar fotovoltaica,True,True,NE,Nordeste,90.0,744,13500.81,13.501,20.16,90.0
+2025,8,Agosto,2025-08,CRE-UHE-001,UHE Campo Real Iguaçu,PR,Capitão Leônidas Marques,UHE,Hidrelétrica,True,False,S,Sul,180.0,744,73493.55,73.494,54.88,180.0
+2025,8,Agosto,2025-08,CRE-UHE-008,UHE Tocantins Real,TO,Peixe,UHE,Hidrelétrica,True,False,N,Norte,110.0,744,20359.73,20.36,24.88,85.16
+2025,8,Agosto,2025-08,CRE-UTE-009,UTE Gás Norte,MA,Santo Antônio dos Lopes,UTE,Térmica a gás natural,False,False,N,Norte,150.0,744,58696.2,58.696,52.6,150.0
+2025,9,Setembro,2025-09,CRE-BIO-005,UTE Bagaço Campo Real,SP,Sertãozinho,BIO,Biomassa (bagaço de cana),True,False,SE,Sudeste/Centro-Oeste,40.0,720,22470.24,22.47,78.02,40.0
+2025,9,Setembro,2025-09,CRE-EOL-003,EOL Coxilha Real,RS,Santana do Livramento,EOL,Eólica,True,True,S,Sul,50.0,720,14417.01,14.417,40.05,50.0
+2025,9,Setembro,2025-09,CRE-EOL-007,EOL Ventos do Potiguar,RN,João Câmara,EOL,Eólica,True,True,NE,Nordeste,120.0,720,53986.33,53.986,62.48,117.33
+2025,9,Setembro,2025-09,CRE-PCH-002,PCH Rio das Araucárias,SC,Caçador,PCH,Pequena Central Hidrelétrica,True,False,S,Sul,25.0,720,8949.61,8.95,49.72,25.0
+2025,9,Setembro,2025-09,CRE-UFV-004,UFV Campo Real Minas,MG,Janaúba,UFV,Solar fotovoltaica,True,True,SE,Sudeste/Centro-Oeste,60.0,720,8926.07,8.926,20.66,60.0
+2025,9,Setembro,2025-09,CRE-UFV-006,UFV Sertão do Sol,BA,Bom Jesus da Lapa,UFV,Solar fotovoltaica,True,True,NE,Nordeste,90.0,720,13300.34,13.3,20.53,90.0
+2025,9,Setembro,2025-09,CRE-UHE-001,UHE Campo Real Iguaçu,PR,Capitão Leônidas Marques,UHE,Hidrelétrica,True,False,S,Sul,180.0,720,72598.22,72.598,56.02,180.0
+2025,9,Setembro,2025-09,CRE-UHE-008,UHE Tocantins Real,TO,Peixe,UHE,Hidrelétrica,True,False,N,Norte,110.0,720,28043.96,28.044,35.41,110.0
+2025,9,Setembro,2025-09,CRE-UTE-009,UTE Gás Norte,MA,Santo Antônio dos Lopes,UTE,Térmica a gás natural,False,False,N,Norte,150.0,720,58932.24,58.932,54.57,150.0
+2025,10,Outubro,2025-10,CRE-BIO-005,UTE Bagaço Campo Real,SP,Sertãozinho,BIO,Biomassa (bagaço de cana),True,False,SE,Sudeste/Centro-Oeste,40.0,744,23208.09,23.208,77.98,40.0
+2025,10,Outubro,2025-10,CRE-EOL-003,EOL Coxilha Real,RS,Santana do Livramento,EOL,Eólica,True,True,S,Sul,50.0,744,14157.24,14.157,38.06,50.0
+2025,10,Outubro,2025-10,CRE-EOL-007,EOL Ventos do Potiguar,RN,João Câmara,EOL,Eólica,True,True,NE,Nordeste,120.0,744,53204.77,53.205,59.59,120.0
+2025,10,Outubro,2025-10,CRE-PCH-002,PCH Rio das Araucárias,SC,Caçador,PCH,Pequena Central Hidrelétrica,True,False,S,Sul,25.0,744,10485.66,10.486,56.37,25.0
+2025,10,Outubro,2025-10,CRE-UFV-004,UFV Campo Real Minas,MG,Janaúba,UFV,Solar fotovoltaica,True,True,SE,Sudeste/Centro-Oeste,60.0,744,9686.73,9.687,21.7,60.0
+2025,10,Outubro,2025-10,CRE-UFV-006,UFV Sertão do Sol,BA,Bom Jesus da Lapa,UFV,Solar fotovoltaica,True,True,NE,Nordeste,90.0,744,13619.23,13.619,20.34,86.13
+2025,10,Outubro,2025-10,CRE-UHE-001,UHE Campo Real Iguaçu,PR,Capitão Leônidas Marques,UHE,Hidrelétrica,True,False,S,Sul,180.0,744,78771.99,78.772,58.82,180.0
+2025,10,Outubro,2025-10,CRE-UHE-008,UHE Tocantins Real,TO,Peixe,UHE,Hidrelétrica,True,False,N,Norte,110.0,744,36527.05,36.527,44.63,110.0
+2025,10,Outubro,2025-10,CRE-UTE-009,UTE Gás Norte,MA,Santo Antônio dos Lopes,UTE,Térmica a gás natural,False,False,N,Norte,150.0,744,61830.65,61.831,55.4,150.0
+2025,11,Novembro,2025-11,CRE-BIO-005,UTE Bagaço Campo Real,SP,Sertãozinho,BIO,Biomassa (bagaço de cana),True,False,SE,Sudeste/Centro-Oeste,40.0,720,22513.79,22.514,78.17,40.0
+2025,11,Novembro,2025-11,CRE-EOL-003,EOL Coxilha Real,RS,Santana do Livramento,EOL,Eólica,True,True,S,Sul,50.0,720,11520.64,11.521,32.0,50.0
+2025,11,Novembro,2025-11,CRE-EOL-007,EOL Ventos do Potiguar,RN,João Câmara,EOL,Eólica,True,True,NE,Nordeste,120.0,720,44247.88,44.248,51.21,120.0
+2025,11,Novembro,2025-11,CRE-PCH-002,PCH Rio das Araucárias,SC,Caçador,PCH,Pequena Central Hidrelétrica,True,False,S,Sul,25.0,720,11522.93,11.523,64.02,25.0
+2025,11,Novembro,2025-11,CRE-UFV-004,UFV Campo Real Minas,MG,Janaúba,UFV,Solar fotovoltaica,True,True,SE,Sudeste/Centro-Oeste,60.0,720,9636.68,9.637,22.31,60.0
+2025,11,Novembro,2025-11,CRE-UFV-006,UFV Sertão do Sol,BA,Bom Jesus da Lapa,UFV,Solar fotovoltaica,True,True,NE,Nordeste,90.0,720,14575.19,14.575,22.49,90.0
+2025,11,Novembro,2025-11,CRE-UHE-001,UHE Campo Real Iguaçu,PR,Capitão Leônidas Marques,UHE,Hidrelétrica,True,False,S,Sul,180.0,720,81503.17,81.503,62.89,180.0
+2025,11,Novembro,2025-11,CRE-UHE-008,UHE Tocantins Real,TO,Peixe,UHE,Hidrelétrica,True,False,N,Norte,110.0,720,45251.15,45.251,57.14,110.0
+2025,11,Novembro,2025-11,CRE-UTE-009,UTE Gás Norte,MA,Santo Antônio dos Lopes,UTE,Térmica a gás natural,False,False,N,Norte,150.0,720,59670.67,59.671,55.25,150.0
+2025,12,Dezembro,2025-12,CRE-BIO-005,UTE Bagaço Campo Real,SP,Sertãozinho,BIO,Biomassa (bagaço de cana),True,False,SE,Sudeste/Centro-Oeste,40.0,744,0.0,0.0,0.0,0.0
+2025,12,Dezembro,2025-12,CRE-EOL-003,EOL Coxilha Real,RS,Santana do Livramento,EOL,Eólica,True,True,S,Sul,50.0,744,10756.15,10.756,28.91,50.0
+2025,12,Dezembro,2025-12,CRE-EOL-007,EOL Ventos do Potiguar,RN,João Câmara,EOL,Eólica,True,True,NE,Nordeste,120.0,744,38219.58,38.22,42.81,120.0
+2025,12,Dezembro,2025-12,CRE-PCH-002,PCH Rio das Araucárias,SC,Caçador,PCH,Pequena Central Hidrelétrica,True,False,S,Sul,25.0,744,13122.33,13.122,70.55,25.0
+2025,12,Dezembro,2025-12,CRE-UFV-004,UFV Campo Real Minas,MG,Janaúba,UFV,Solar fotovoltaica,True,True,SE,Sudeste/Centro-Oeste,60.0,744,9412.43,9.412,21.09,60.0
+2025,12,Dezembro,2025-12,CRE-UFV-006,UFV Sertão do Sol,BA,Bom Jesus da Lapa,UFV,Solar fotovoltaica,True,True,NE,Nordeste,90.0,744,15243.04,15.243,22.76,90.0
+2025,12,Dezembro,2025-12,CRE-UHE-001,UHE Campo Real Iguaçu,PR,Capitão Leônidas Marques,UHE,Hidrelétrica,True,False,S,Sul,180.0,744,89537.07,89.537,66.86,180.0
+2025,12,Dezembro,2025-12,CRE-UHE-008,UHE Tocantins Real,TO,Peixe,UHE,Hidrelétrica,True,False,N,Norte,110.0,744,56818.96,56.819,69.43,110.0
+2025,12,Dezembro,2025-12,CRE-UTE-009,UTE Gás Norte,MA,Santo Antônio dos Lopes,UTE,Térmica a gás natural,False,False,N,Norte,150.0,744,19116.95,19.117,17.13,150.0

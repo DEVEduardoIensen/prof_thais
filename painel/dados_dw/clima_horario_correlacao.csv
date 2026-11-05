@@ -1,0 +1,10 @@
+﻿cod_usina,nome_usina,cod_fonte,corr_geracao_radiacao,corr_geracao_vento100m,corr_geracao_temperatura,radiacao_media_wm2,vento_medio_100m_kmh
+CRE-BIO-005,UTE Bagaço Campo Real,BIO,-0.0722,0.1966,-0.2847,230.11,16.24
+CRE-EOL-003,EOL Coxilha Real,EOL,-0.4879,0.2271,-0.4677,208.13,18.37
+CRE-EOL-007,EOL Ventos do Potiguar,EOL,-0.3634,0.2507,-0.5161,242.67,26.83
+CRE-PCH-002,PCH Rio das Araucárias,PCH,0.1585,-0.1965,0.5628,205.46,17.12
+CRE-UFV-004,UFV Campo Real Minas,UFV,0.9233,-0.4025,0.5944,249.22,18.26
+CRE-UFV-006,UFV Sertão do Sol,UFV,0.9413,-0.4297,0.6056,256.91,14.42
+CRE-UHE-001,UHE Campo Real Iguaçu,UHE,0.482,-0.3662,0.7045,211.3,15.58
+CRE-UHE-008,UHE Tocantins Real,UHE,0.1502,-0.5068,-0.0912,241.15,14.99
+CRE-UTE-009,UTE Gás Norte,UTE,-0.1142,0.1159,0.1646,238.15,12.81
